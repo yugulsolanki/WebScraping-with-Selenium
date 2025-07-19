@@ -11,3 +11,12 @@ Selenium + BeautifulSoup
 -Useful for complex HTML parsing like nested tags, attributes
 
 **Use Selenium to load the page and BeautifulSoup to easily parse the HTML — especially when the structure is complex.
+
+**To Run
+1.create your env
+2. pip install selenium beautifulsoup4
+3. mkdir my_scraping_project
+4. cd my_scraping_project
+5. add chromedriver.exe inside it (it should same as of your chrome version)
+6. python scraper.py
+7. python selenium_with_beautifulsoup.py
